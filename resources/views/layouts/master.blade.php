@@ -60,9 +60,15 @@
           </li>
           <li><a class="nav-link scrollto" href="discuss">Discuss</a></li>
           <li><a class="nav-link scrollto" href="contact">Contact</a></li>
-          <li><a class="getstarted" href="#">Register</a></li>
-          <li><a class="getstarted" href="#">Login</a></li>
-          <!-- <li><i class="bi bi-person-circle icon-white icon-large"></i></li> -->
+          <li class="dropdown"><a href="#"><span><i class="bi bi-person-circle icon-white icon-large"></i></span> </a>
+            <ul>
+              <li><a href="#">Log In</a></li>
+              <li><a href="#">Register</a></li>
+            </ul>
+          </li>
+          <!-- <li><a class="getstarted" href="#">Register</a></li>
+          <li><a class="getstarted" href="#">Login</a></li> -->
+          
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
