@@ -48,3 +48,7 @@ Route::get('/contact', function () {
 Route::get('/discuss', function () {
     return view('discuss');
 });
+
+Route::get('/login', function () {
+    return view('login');
+});
