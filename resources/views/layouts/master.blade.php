@@ -48,7 +48,7 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto active" href="/">Home</a></li>
           <li><a href="aboutus">About Us</a></li>
           <li class="dropdown"><a href="#"><span>MPASI</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
@@ -79,7 +79,7 @@
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
-    <div class="footer-top">
+    <div class="footer-top" style="background-image: url(assets/img/footer.jpg);">
       <div class="container">
         <div class="row">
 
@@ -119,23 +119,11 @@
               <li><i class="bx bx-chevron-right"></i> <a href="contact">Contact</a></li>
             </ul>
           </div>
-
         </div>
       </div>
     </div>
 
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Nutripedia</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/groovin-free-bootstrap-theme/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-      </div>
-    </div>
+    
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

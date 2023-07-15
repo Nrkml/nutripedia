@@ -1513,7 +1513,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #111111;
+  background: #5C9E6E;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
@@ -1521,8 +1521,7 @@ section {
 
 #footer .footer-top {
   background: #1d1d1d;
-  border-bottom: 1px solid #2f2f2f;
-  padding: 60px 0 30px 0;
+  border-bottom: 1px solid #5C9E6E;
 }
 
 #footer .footer-top .footer-info {
