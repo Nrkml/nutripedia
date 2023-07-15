@@ -52,3 +52,7 @@ Route::get('/discuss', function () {
 Route::get('/login', function () {
     return view('login');
 });
+
+Route::get('/diagnosa', function () {
+    return view('diagnosa');
+});
