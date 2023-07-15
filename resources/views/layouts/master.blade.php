@@ -62,8 +62,7 @@
           <li><a class="nav-link scrollto" href="contact">Contact</a></li>
           <li class="dropdown"><a href="#"><span><i class="bi bi-person-circle icon-white icon-large"></i></span> </a>
             <ul>
-              <li><a href="#">Log In</a></li>
-              <li><a href="#">Register</a></li>
+              <li><a href="login">Log In</a></li>
             </ul>
           </li>
           <!-- <li><a class="getstarted" href="#">Register</a></li>
