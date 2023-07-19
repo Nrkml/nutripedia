@@ -56,3 +56,8 @@ Route::get('/login', function () {
 Route::get('/diagnosa', function () {
     return view('diagnosa');
 });
+
+Route::get('/diagnosa_form', function () {
+    return view('diagnosa_form');
+});
+
