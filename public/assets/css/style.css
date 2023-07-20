@@ -33,7 +33,7 @@ a:hover {
   font-weight: 500;
   text-align: justify;
   margin-right: 20px;
-  text-size-adjust:;
+  text-size-adjust: auto;
 }
 h1,
 h2,
@@ -1519,6 +1519,14 @@ section {
   font-size: 14px;
 }
 
+#footer .footer-bottomcenter {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+}
+
 #footer .footer-top {
   background: #1d1d1d;
   border-bottom: 1px solid #5C9E6E;
@@ -1726,3 +1734,9 @@ section {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.responsive {
+  max-width: 100%;
+  height: auto;
+}
+
