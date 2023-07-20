@@ -51,8 +51,9 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="nav-link scrollto active" href="/">Home</a></li>
-          <li><a href="aboutus">About Us</a></li>
+        <li><a class="nav-link scrollto active" href="/">Home</a></li>
+          <li><a class="nav-link scrollto" href="discuss">Discuss</a></li>
+          <li><a class="nav-link scrollto" href="diagnosa">Diagnose</a></li>
           <li class="dropdown"><a href="#"><span>MPASI</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="resep_nasi">Resep Nasi</a></li>
@@ -61,7 +62,7 @@
               <li><a href="resep_fingerfood">Resep Fingerfood</a></li>
             </ul>
           </li>
-          <li><a class="nav-link scrollto" href="discuss">Discuss</a></li>
+          <li><a class="nav-link scrollto" href="aboutus">About Us</a></li>
           <li><a class="nav-link scrollto" href="contact">Contact</a></li>
           <li class="dropdown"><a href="#"><span><i class="bi bi-person-circle icon-white icon-large"></i></span> </a>
             <ul>
@@ -70,7 +71,6 @@
           </li>
           <!-- <li><a class="getstarted" href="#">Register</a></li>
           <li><a class="getstarted" href="#">Login</a></li> -->
-          
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -83,6 +83,7 @@
     <!-- ======= Footer ======= -->
     <footer id="footer">
     <div class="footer-top" style="background-image: url(assets/img/footer.jpg); width:100%; height:auto;">
+      <!-- <img src="assets/img/footer.jpg" alt=""> -->
       <div class="container">
         <div class="row">
           <div class="col-lg-3 col-md-6">
