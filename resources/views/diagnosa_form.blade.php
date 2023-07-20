@@ -34,9 +34,32 @@
             <label for="">Usia Ibu</label>
             <input type="text" name="name" class="form-control" id="name" required> <br>
           </div>
+        </div><br>
+        <h4>Pilih Gejala Yang Dialami</h3><br>
+        <div class="row">
+          <div class="col-lg-6">
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Penolakan Makan</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Muntah atau Regurgitasi</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Kembung atau Kolik</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Sembelit</label><br>
+          </div>
+          <div class="col-lg-6">
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Penolakan Makan</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Muntah atau Regurgitasi</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Kembung atau Kolik</label><br>
+            <input type="checkbox" id="#" name="#" value="#">
+            <label for="#">Sembelit</label><br>
+          </div>
         </div>
         <br>
-        <div class="text-center"><button type="submit" class="btn btn-success">Send Message</button></div>
+        <div class="text-center"><button type="submit" class="btn btn-success">Submit</button></div>
       </form>
 
 </main><!-- End #main -->
