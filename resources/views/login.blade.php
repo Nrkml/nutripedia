@@ -6,9 +6,19 @@
     <!-- ======= LOGIN ======= -->
     <div class="container" id="main">
       <div class="sign-in">
-        <form action="#">
+        <form action="" method="POST">
+          @csrf
           <h1>LOGIN</h1>
-          <input type="email" name="email" placeholder="Email" required="" />
+          @if($errors->any())
+            <div class="alert alert-danger">
+              <ul>
+                @foreach($errors->all() as $item)
+                <li>{{ $item }}</li>
+                @endforeach
+              </ul>
+            </div>
+            @endif
+          <input type="email" value="{{ old('email') }}"name="email" placeholder="Email" required="" />
           <input type="password" name="password" placeholder="Password" required=""/>
           <div class="form-group">
             <div class="form-check">
