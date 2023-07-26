@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\SesiController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,9 +18,9 @@ use Illuminate\Support\Facades\Route;
 //     return view('welcome');
 // });
 
-Route::get('/', function () {
-    return view('home');
-});
+// Route::get('/', function () {
+//     return view('home');
+// });
 
 Route::get('/resep_nasi', function () {
     return view('resep_nasi');
@@ -61,3 +62,5 @@ Route::get('/diagnosa_form', function () {
     return view('diagnosa_form');
 });
 
+Route::get('/',[SesiController::class,'index']);
+Route::post('/',[SesiController::class,'login']);

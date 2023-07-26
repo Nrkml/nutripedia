@@ -13,7 +13,7 @@
     <div class="container">
 
       <div class="section-title">
-        <h2>Diagonosa masalah pada bayi</h2>
+        <h2>Diagnosa masalah pada bayi</h2>
         <h4>Silahkan Masukkan Data Diri Bayi Yang<br>Anda Alami</h4>
       </div>
       <form action="">
