@@ -82,7 +82,8 @@
 
     <!-- ======= Footer ======= -->
     <footer id="footer">
-    <div class="footer-top" style="background-image: url(assets/img/footer.jpg); width:100%; height:auto;">
+    <div class="footer-top">
+    <!-- <div class="footer-top" style="background-image: url(assets/img/footer.jpg); width:100%; height:auto;"> -->
       <!-- <img src="assets/img/footer.jpg" alt=""> -->
       <div class="container">
         <div class="row">
@@ -126,7 +127,11 @@
       </div>
     </div>
 
-    
+    <div class="container">
+      <div class="copyright">
+        NAWAS3NA &hearts; <strong><span>POLIBATAM</span></strong>
+      </div>
+    </div>
   </footer><!-- End Footer -->
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
