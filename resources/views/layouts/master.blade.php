@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Icons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/logo-nobg.png" rel="nawasena - logo">
+  <link href="assets/img/logo-nobg.png" rel="nawasena - logo">
   <link rel="stylesheet" href="assets/vendor/fontawesome/css/fontawesome.css">
 
   <!-- Google Fonts -->
@@ -95,13 +95,6 @@
               Batam Centre, Jl. Ahmad Yani, Tlk. Tering, <br>
               Kec. Batam Kota, Kota Batam, Kepulauan Riau<br><br>
               </p>
-              <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
             </div>
           </div>
 
@@ -115,13 +108,18 @@
             </ul>
           </div>
 
-          <div class="col-lg-3 col-md-6 footer-links">
+          <div class="col-lg-2 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="aboutus">About Us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="discuss">Discuss</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="contact">Contact</a></li>
             </ul>
+          </div>
+
+          <div class="col-lg-5 col-md-6 footer-links">
+            <h4>Our Location</h4>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15956.231689492266!2d104.0484619!3d1.1186351!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d98921856ddfab%3A0xf9d9fc65ca00c9d!2sPoliteknik%20Negeri%20Batam!5e0!3m2!1sid!2sid!4v1690650206052!5m2!1sid!2sid" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
           </div>
         </div>
       </div>
