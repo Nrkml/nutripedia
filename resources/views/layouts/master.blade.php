@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Icons -->
-  <link href="assets/img/logo-nobg.png" rel="nawasena - logo">
-  <link href="assets/img/logo-nobg.png" rel="nawasena - logo">
+  <link href="assets/img/logo-nobg.png" rel="icon">
+  <link href="assets/img/logo-nobg.png" rel="apple-touch-icon">
   <link rel="stylesheet" href="assets/vendor/fontawesome/css/fontawesome.css">
 
   <!-- Google Fonts -->

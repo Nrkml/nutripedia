@@ -9,7 +9,9 @@
 
     <!-- Favicons -->
     <!-- logo aplikasi -->
-    <link href="#" rel="icon" />
+    <link href="assets/img/logo-nobg.png" rel="icon">
+    <link href="assets/img/logo-nobg.png" rel="apple-touch-icon">
+    <link rel="stylesheet" href="assets/vendor/fontawesome/css/fontawesome.css">
 
     <!--GOOGLE FONT-->
     <link
