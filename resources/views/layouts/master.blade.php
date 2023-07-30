@@ -54,12 +54,11 @@
         <li><a class="nav-link scrollto" href="/">Home</a></li>
           <li><a class="nav-link scrollto" href="discuss">Discuss</a></li>
           <li><a class="nav-link scrollto" href="diagnosa">Diagnose</a></li>
-          <li class="dropdown"><a href="#"><span>MPASI</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="mpasi_menu"><span>MPASI</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="resep_nasi">Resep Nasi</a></li>
-              <li><a href="resep_bubur">Resep Bubur</a></li>
-              <li><a href="resep_puree">Resep Puree</a></li>
-              <li><a href="resep_fingerfood">Resep Fingerfood</a></li>
+              <li><a href="resep_6-8bulan">Usia 6-8 Bulan</a></li>
+              <li><a href="resep_9-11bulan">Usia 9-11 Bulan</a></li>
+              <li><a href="resep_12-23bulan">Usia 12-23 Bulan</a></li>
             </ul>
           </li>
           <li><a class="nav-link scrollto" href="aboutus">About Us</a></li>
@@ -101,10 +100,9 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Resep MPASI</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="resep_nasi">Nasi</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="resep_bubur">Bubur</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="resep_puree">Puree</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="resep_fingerfood">Fingerfood</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="resep_6-8bulan">Usia 6-8 Bulan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="resep_9-11bulan">Usia 9-11 Bulan</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="resep_12-23bulan">Usia 12-23 Bulan</a></li>
             </ul>
           </div>
 
@@ -113,6 +111,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="aboutus">About Us</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="discuss">Discuss</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="diagnosa">Diagnose</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="contact">Contact</a></li>
             </ul>
           </div>
